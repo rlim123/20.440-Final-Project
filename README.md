@@ -12,13 +12,13 @@ NOTE: For problem set 6, the data file to generate the feature importance figure
 
 ## Folder Structure
 
-'''bash
+```bash
 20.440-Final-Project/
 ├── README.md          # Project documentation and overview
 ├── hw6.ipynb          # Jupyter notebook with random forest analysis
 ├── .gitattributes  
 └── .gitignore         
-'''
+```
 
 ## Installation
 To run the analysis notebook, you'll need Python 3.8+ and the following packages:
@@ -43,7 +43,7 @@ ipython
 
 # For running the notebook
 jupyter
-'''
+```
 
 ## References
 1. Maxim E. Zaslavsky et al. ,Disease diagnostics using machine learning of B cell and T cell receptor sequences.Science387,eadp2407(2025).DOI:10.1126/science.adp2407
