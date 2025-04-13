@@ -14,8 +14,13 @@ NOTE: For problem set 6, the data file to generate the feature importance figure
 
 ```bash
 20.440-Final-Project/
-├── README.md          # Project documentation and overview
-├── hw6.ipynb          # Jupyter notebook with random forest analysis
+├── README.md
+├── Code/
+  ├── hw6.ipynb          # Jupyter notebook with random forest analysis
+├──Data/
+  ├── googledrive.txt    # Google Drive link to download data
+├── Figures/
+  ├── fig4.png
 ├── .gitattributes  
 └── .gitignore         
 ```
